@@ -47,17 +47,12 @@ Kubernetes-Cloud-Wallet-AWS/
 │   └── .dockerignore
 │
 ├── k8s/
-│   ├── namespace.yaml
-│   ├── deployment.yaml
-│   ├── service.yaml
-│   ├── ingress.yaml
-│   ├── configmap.yaml
-│   └── secret.yaml
-│
-├── Screenshots/
-├── Notes/
-├── README.md
-└── .gitignore
+   ├── namespace.yaml
+   ├── deployment.yaml
+   ├── service.yaml
+   ├── ingress.yaml
+   ├── configmap.yaml
+   └── secret.yaml
 ```
 
 ---
