@@ -1,0 +1,14 @@
+{
+  "name": "cloud-wallet",
+  "version": "1.0.0",
+  "description": "Kubernetes Cloud Wallet Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ndandise Xalisa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
